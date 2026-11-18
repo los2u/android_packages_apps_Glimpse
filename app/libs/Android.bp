@@ -221,7 +221,7 @@ android_library_import {
 java_import {
     name: "Glimpse_com.adobe.xmp_xmpcore",
     jars: ["com/adobe/xmp/xmpcore/6.1.11/xmpcore-6.1.11.jar"],
-    sdk_version: "36",
+    sdk_version: "35",
     min_sdk_version: "30",
     apex_available: [
         "//apex_available:platform",
